@@ -6,8 +6,7 @@
 
 </div>
 ## :star2: About the Project
-
-## :toolbox: Getting Started
+<p>The DualListBox Vue3 Common Component is a versatile Vue 3 component that allows you to create dual listboxes easily. It provides a simple and customizable way to manage and manipulate lists.</p>
 
 ### :gear: Installation
 
